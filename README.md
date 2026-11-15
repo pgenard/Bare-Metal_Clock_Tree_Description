@@ -84,16 +84,16 @@ Command> clock
 --------------------------------------------------------------------------
 PLL          REF       CONFIG     EFFECTIVE   LOCK   BYPASS   ENABLED
 --------------------------------------------------------------------------
-AUDIO_PLL1     24M     650 MHz     24 MHz     YES      NO       NO
-AUDIO_PLL2     24M     650 MHz     24 MHz     YES      NO       NO
-VIDEO_PLL1     24M     650 MHz     24 MHz     YES      NO       NO
-DRAM_PLL     24M     600 MHz     24 MHz     YES      NO       NO
-GPU_PLL     24M     800 MHz     24 MHz     YES      NO       NO
-VPU_PLL     24M     600 MHz     24 MHz     YES      NO       NO
-ARM_PLL     24M     1000 MHz     24 MHz     YES      NO       NO
-SYS_PLL1     24M     800 MHz     24 MHz     YES      NO       NO
-SYS_PLL2     24M     1000 MHz     24 MHz     YES      NO       NO
-SYS_PLL3     24M     1000 MHz     24 MHz     YES      NO       NO
+AUDIO_PLL1     24 MHz     650 MHz     24 MHz     YES      NO       NO
+AUDIO_PLL2     24 MHz     650 MHz     24 MHz     YES      NO       NO
+VIDEO_PLL1     24 MHz     650 MHz     24 MHz     YES      NO       NO
+DRAM_PLL     24 MHz     600 MHz     24 MHz     YES      NO       NO
+GPU_PLL     24 MHz     800 MHz     24 MHz     YES      NO       NO
+VPU_PLL     24 MHz     600 MHz     24 MHz     YES      NO       NO
+ARM_PLL     24 MHz     1000 MHz     24 MHz     YES      NO       NO
+SYS_PLL1     24 MHz     800 MHz     24 MHz     YES      NO       NO
+SYS_PLL2     24 MHz     1000 MHz     24 MHz     YES      NO       NO
+SYS_PLL3     24 MHz     1000 MHz     24 MHz     YES      NO       NO
 --------------------------------------------------------------------------
 [CCM Clock Roots]
 ------------------------------------------------
